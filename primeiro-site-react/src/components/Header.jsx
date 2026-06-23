@@ -1,5 +1,5 @@
-import Logo from '/Logo.jsx';
-import Menu from '/Menu.jsx';
+import Logo from './Logo.jsx';
+import Menu from './Menu.jsx';
 
 function Header({ paginaAtiva, aoMudarPagina }) {
   // Header combina Logo e Menu para formar o topo fixo do layout.
